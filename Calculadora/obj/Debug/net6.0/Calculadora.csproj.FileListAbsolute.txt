@@ -1,0 +1,15 @@
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Projetos\Testes Unitarios com C# Dio.me\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
